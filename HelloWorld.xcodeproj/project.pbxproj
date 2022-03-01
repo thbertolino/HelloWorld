@@ -44,6 +44,7 @@
 		AF579C6827CE85AE0055024E /* HelloWorldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloWorldUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF579C6C27CE85AE0055024E /* HelloWorldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloWorldUITests.swift; sourceTree = "<group>"; };
 		AF579C6E27CE85AE0055024E /* HelloWorldUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloWorldUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		AF579C7B27CE8AAB0055024E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +95,7 @@
 		AF579C5027CE85AD0055024E /* HelloWorld */ = {
 			isa = PBXGroup;
 			children = (
+				AF579C7B27CE8AAB0055024E /* README.md */,
 				AF579C5127CE85AD0055024E /* HelloWorldApp.swift */,
 				AF579C5327CE85AD0055024E /* ContentView.swift */,
 				AF579C5527CE85AE0055024E /* Assets.xcassets */,

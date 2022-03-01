@@ -95,7 +95,6 @@
 		AF579C5027CE85AD0055024E /* HelloWorld */ = {
 			isa = PBXGroup;
 			children = (
-				AF579C7B27CE8AAB0055024E /* README.md */,
 				AF579C5127CE85AD0055024E /* HelloWorldApp.swift */,
 				AF579C5327CE85AD0055024E /* ContentView.swift */,
 				AF579C5527CE85AE0055024E /* Assets.xcassets */,
@@ -107,6 +106,7 @@
 		AF579C5727CE85AE0055024E /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				AF579C7B27CE8AAB0055024E /* README.md */,
 				AF579C5827CE85AE0055024E /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
